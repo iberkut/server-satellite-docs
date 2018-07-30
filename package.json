@@ -1,0 +1,27 @@
+{
+  "name": "server-satellite-docs",
+  "version": "0.1.0",
+  "description": "Personal Smart Storage Next Generation",
+  "scripts": {
+    "start": "vuepress dev src",
+    "build": "vuepress build src",
+    "clean": "rm -rf dist",
+    "clean:all": "npm run clean && rm -rf node_modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iberkut/server-satellite-docs.git"
+  },
+  "author": "Iaroslav Berkut",
+  "bugs": {
+    "url": "https://github.com/iberkut/server-satellite-docs/issues"
+  },
+  "homepage": "https://github.com/iberkut/server-satellite-docs#readme",
+  "devDependencies": {
+    "vuepress": "^0.13.0"
+  },
+  "dependencies": {
+    "markdown-it": "^8.4.2",
+    "markdown-it-emoji": "^1.4.0"
+  }
+}
