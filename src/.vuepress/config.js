@@ -27,5 +27,13 @@ module.exports = {
     config: md => {
       md.set({ typographer: true })
     }
+  },
+
+  configureWebpack: {
+    resolve: {
+      alias: {
+        '@assets': '../assets'
+      }
+    }
   }
 }

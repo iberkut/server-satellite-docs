@@ -6,4 +6,5 @@ actions:
   link: /intro/
 ---
 
-some small description will be here
+Personal Smart Storage Next Generation
+
