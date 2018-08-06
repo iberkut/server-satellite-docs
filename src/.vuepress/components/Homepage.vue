@@ -55,7 +55,7 @@
     flex-direction column
     align-items center
     .avatar
-      margin 80px 0 40px
+      margin 30px 0 40px
       position relative
       z-index 1
       img
