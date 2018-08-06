@@ -7,4 +7,3 @@ actions:
 ---
 
 Personal Smart Storage Next Generation
-
