@@ -55,7 +55,7 @@
     flex-direction column
     align-items center
     .avatar
-      margin 30px 0 40px
+      margin 20px 0
       position relative
       z-index 1
       img
@@ -91,7 +91,7 @@
           .description
             font-size 1em
       .actions
-        margin-top 60px
+        margin-top 40px
         display flex
         flex-direction: row
         justify-content: center
